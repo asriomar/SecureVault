@@ -1,0 +1,5 @@
+{
+  "name": "SecureVault Auth",
+  "description": "A full-stack ready authentication system with a mocked secure download area and Gemini-powered welcome messages.",
+  "requestFramePermissions": []
+}
